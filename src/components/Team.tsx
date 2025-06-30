@@ -8,7 +8,7 @@ const Team = () => {
       role: 'Chief Security Officer & Lead Full-Stack Developer',
       expertise: 'Penetration Testing & Threat Analysis',
       image: 'https://i.imgur.com/fGSfbel.png',
-      bio: 'Former NSA cybersecurity specialist with 6+ years in critical infrastructure protection.',
+      bio: 'Former NSA cybersecurity specialist with 3+ years in critical infrastructure protection.',
       certifications: ['CISSP', 'CEH', 'OSCP']
     },
     {
