@@ -4,36 +4,20 @@ import { Linkedin, Github, Twitter } from 'lucide-react';
 const Team = () => {
   const team = [
     {
-      name: 'Alex Chen',
-      role: 'Chief Security Officer',
+      name: 'Byron Ijie',
+      role: 'Chief Security Officer & Lead Full-Stack Developer',
       expertise: 'Penetration Testing & Threat Analysis',
-      image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
-      bio: 'Former NSA cybersecurity specialist with 12+ years in critical infrastructure protection.',
+      image: 'https://i.imgur.com/fGSfbel.png',
+      bio: 'Former NSA cybersecurity specialist with 6+ years in critical infrastructure protection.',
       certifications: ['CISSP', 'CEH', 'OSCP']
     },
     {
-      name: 'Maya Rodriguez',
-      role: 'Lead Full-Stack Developer',
-      expertise: 'Secure Application Development',
-      image: 'https://images.pexels.com/photos/1181519/pexels-photo-1181519.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
-      bio: 'Expert in building scalable, secure web applications with modern frameworks and security protocols.',
-      certifications: ['AWS Certified', 'CISSP', 'CSSLP']
-    },
-    {
-      name: 'David Kumar',
+      name: 'Doubra Ariaye',
       role: 'DevSecOps Engineer',
       expertise: 'Infrastructure Security & Automation',
       image: 'https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
       bio: 'Specializes in secure CI/CD pipelines and cloud security architecture for enterprise environments.',
       certifications: ['CKS', 'AWS Security', 'Azure Security']
-    },
-    {
-      name: 'Sarah Johnson',
-      role: 'Security Researcher',
-      expertise: 'Threat Intelligence & Incident Response',
-      image: 'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
-      bio: 'PhD in Cybersecurity with focus on AI-driven threat detection and behavioral analysis.',
-      certifications: ['GCIH', 'GIAC', 'CISSP']
     }
   ];
 
